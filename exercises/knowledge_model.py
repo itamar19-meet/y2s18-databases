@@ -28,5 +28,4 @@ class Knowledge(Base):
 					self.topic,
 					self.rating,
 					self.ID)
-a = Knowledge(article_name ="dff",topic ="cars", rating = 5)
-a.Knowledge()
+
